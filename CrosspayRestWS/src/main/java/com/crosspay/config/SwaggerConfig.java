@@ -27,7 +27,7 @@ public class SwaggerConfig {
 	 private ApiInfo metaData() {
 		 ApiInfo apiInfo = new ApiInfo(
                "REST API for Cross Pay Money Conversion Application",
-               "Developed by: RAVITEJA",
+               "Developed by: RAVI TEJA",
                "Version-V1.0",
                "Terms of service",
                new Contact("Cross Pay Services", "", ""),
